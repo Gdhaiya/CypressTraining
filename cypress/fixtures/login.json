@@ -1,0 +1,7 @@
+{
+    "invalidUserName": "abcd",
+    "invalidPassword": "abcd",
+    "validUserName": "anuyadav",
+    "validPassword": "2June2013!",
+    "errorMessage": "Invalid username or password!"
+}

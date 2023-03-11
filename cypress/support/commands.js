@@ -12,6 +12,7 @@
 // -- This is a parent command --
 import { Login } from "../support/pageobjects/login";
 import 'cypress-iframe';
+require('@4tw/cypress-drag-drop')
 const loginPage = new Login()   
 
 Cypress.Commands.add('login', (userName, password) => {
